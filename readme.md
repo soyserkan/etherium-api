@@ -24,13 +24,13 @@ then
 
 ## Endpoints
 
-### Fetch account balances given addresses
+### Fetch accounts balance given addresses array
 
 #### Request
 
 > Method: `POST`
 
-> URL: [http://localhost:3000/api/balance/check-balances](http://localhost:3000/api/balance/check-balances)
+> URL: [http://localhost:3000/api/eth/balance/check-balances](http://localhost:3000/api/eth/balance/check-balances)
 
 > Body:
 
